@@ -1,0 +1,183 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #fefef1;
+}
+
+aside {
+	position: absolute;
+	width: 3em;
+    height: 100vh;
+    background: #79a693;
+    z-index: 999;
+}
+
+#wolk-top{
+    margin-top: -18px;
+    width: 92em;
+    animation: float3 6s ease-in-out infinite;
+}
+
+
+#wolk-linksboven{
+    width: 20em;
+    float: left;
+    animation: float3 6s ease-in-out infinite;
+}
+
+#wolk-rechtsboven{
+    width: 20em;
+    float: right;
+    margin-right:-8em;
+    animation: float2 6s ease-in-out infinite;
+}
+
+#wolkrechtsonder{
+    width: 28em;
+    float: right;
+    margin-top: 12em;
+    margin-right: -25em;
+    animation: float 6s ease-in-out infinite;
+    position: static;
+}
+
+#tekst {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	margin: 0 auto;
+	padding: 1em;
+	top: 0;
+	left: 20%;
+	width: 60%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+#tekst h3 {
+	font-style: italic;
+	font-weight: 300;
+}
+
+#tekst h2 {
+	font-family: 'UpperWestSide', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2.6em;
+}
+
+#man svg {
+	position: absolute;
+	bottom: 0;
+	left: 30%;
+	width: auto;
+	height: 85vh;
+}
+
+#Layer_4 {
+	transition: 0.2s;
+}
+
+.hoed-omhoog {
+    transform: translateY(-100px);
+}
+
+#hand {
+	transition: 0.2s;
+}
+
+.animatie {
+    transform: translateX(30px);
+}
+
+#vlinder {
+	position: absolute;
+	transition: 0.2s;
+}
+
+#vlinder:hover{
+    animation: vlinder-vliegen 0.8s alternate infinite ease-in-out;
+    cursor: pointer;
+}
+
+footer {
+    background: #535b4a;
+    width: 100%;
+    height: 3vw;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+/* ---------- KEYFRAMES ---------- */
+@keyframes float {
+    0% {
+        transform: translatey(0px);
+    }
+    50% {
+        transform: translatey(-20px);
+    }
+    100% {
+        transform: translatey(0px);
+    }
+}
+
+@keyframes float2 {
+    0% {
+        transform: translatey(0px);
+    }
+    70% {
+        transform: translatey(-10px);
+    }
+    100% {
+        transform: translatey(0px);
+    }
+}
+
+@keyframes float3 {
+    0% {
+        transform: translatey(0px);
+    }
+    30% {
+        transform: translatey(-30px);
+    }
+    100% {
+        transform: translatey(0px);
+    }
+}
+
+@keyframes float3 {
+    0% {
+        transform: translatey(0px);
+    }
+    30% {
+        transform: translatey(-15px);
+    }
+    100% {
+        transform: translatey(0px);
+    }
+}
+
+@keyframes vlinder-vliegen {
+    0% {
+    	transform: translateY(0px);
+    }
+    100% {
+    	transform: translateY(25px);
+    }
+}
+/* ---------- MEDIA QUERY ---------- */
+@media (max-width: 400px) {
+	#man svg{	
+		left: 5%;
+	}
+}
+@media (max-width: 670px) {
+	#man svg{	
+		left: 5%;
+	}
+}
