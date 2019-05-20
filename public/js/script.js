@@ -10,7 +10,7 @@ handanimatie.addEventListener('click', function () {
 window.onkeydown = function(e) {
 	console.log('hoed omhoog')
 
-	var hoed = document.getElementById('Layer_4')
+	var hoed = document.getElementById('hoed')
 
 	if (event.key == '/') {
 		e.preventDefault()

@@ -5,6 +5,7 @@
 
 body {
 	background-color: #fefef1;
+	overflow: hidden;
 }
 
 aside {
@@ -78,7 +79,7 @@ aside {
 	height: 85vh;
 }
 
-#Layer_4 {
+#hoed {
 	transition: 0.2s;
 }
 
@@ -174,6 +175,10 @@ footer {
 @media (max-width: 400px) {
 	#man svg{	
 		left: 5%;
+	}
+
+	#hoed:active {
+		transform: translateY(-100px);
 	}
 }
 @media (max-width: 670px) {
