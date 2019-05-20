@@ -15,7 +15,12 @@ aside {
     background: #79a693;
     z-index: 999;
 }
-
+h2{
+	font-family: 'Raleway', sans-serif;
+	}
+/*h3{
+	 font-family: 'Raleway', sans-serif;
+}*/
 #wolk-top{
     margin-top: -18px;
     width: 92em;
