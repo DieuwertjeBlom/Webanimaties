@@ -191,6 +191,7 @@ footer {
 	#tekst{
 	    left: 9%;
 	    width: 21em;
+        padding-left: 0em;
 	}
 	#tekst h3{
 	    font-size: .7em;
@@ -212,6 +213,7 @@ footer {
 	#tekst{
 	    left: 9%;
         width: 21em;
+        padding-left: 0em;
 	}
 	#tekst h3{
 	    font-size: .7em;
