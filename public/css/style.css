@@ -181,7 +181,15 @@ footer {
 		transform: translateY(-100px);
 	}
 	#tekst{
-    left: 9%;
+	    left: 9%;
+	}
+	#tekst h3{
+	    font-size: .7em;
+	    font-family: 'Tinos', serif;
+	}
+	#tekst h2{
+	    font-size: 1.4em;
+	    font-family: 'Raleway', sans-serif;
 	}
 }
 @media (max-width: 670px) {
@@ -189,6 +197,14 @@ footer {
 		left: 5%;
 	}
 	#tekst{
-    left: 9%;
+	    left: 9%;
+	}
+	#tekst h3{
+	    font-size: .7em;
+	    font-family: 'Tinos', serif;
+	}
+	#tekst h2{
+	    font-size: 1.4em;
+	    font-family: 'Raleway', sans-serif;
 	}
 }
