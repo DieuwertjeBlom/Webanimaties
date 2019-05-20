@@ -178,6 +178,9 @@ footer {
 }
 /* ---------- MEDIA QUERY ---------- */
 @media (max-width: 400px) {
+	aside{
+		width: 2em;
+	}
 	#man svg{	
 		left: 5%;
 	}
@@ -200,6 +203,9 @@ footer {
 	}
 }
 @media (max-width: 670px) {
+	aside{
+		width: 2em;
+	}
 	#man svg{	
 		left: 5%;
 	}
