@@ -180,9 +180,15 @@ footer {
 	#hoed:active {
 		transform: translateY(-100px);
 	}
+	#tekst{
+    left: 9%;
+	}
 }
 @media (max-width: 670px) {
 	#man svg{	
 		left: 5%;
+	}
+	#tekst{
+    left: 9%;
 	}
 }
