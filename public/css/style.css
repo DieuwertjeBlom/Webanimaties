@@ -15,12 +15,10 @@ aside {
     background: #79a693;
     z-index: 999;
 }
+/*de fonts heb ik van fonts.google.com/*/
 h2{
 	font-family: 'Raleway', sans-serif;
 	}
-/*h3{
-	 font-family: 'Raleway', sans-serif;
-}*/
 #wolk-top{
     margin-top: -18px;
     width: 92em;
@@ -120,6 +118,8 @@ footer {
 }
 
 /* ---------- KEYFRAMES ---------- */
+
+/* de floating animatie heb ik van: https://codepen.io/MarioDesigns/pen/woJgeo */
 @keyframes float {
     0% {
         transform: translatey(0px);
@@ -167,7 +167,7 @@ footer {
         transform: translatey(0px);
     }
 }
-
+/* het vliegen van de vlinder heb ik hier van daan https://www.hongkiat.com/blog/css3-bounce-effect/*/
 @keyframes vlinder-vliegen {
     0% {
     	transform: translateY(0px);
@@ -179,7 +179,7 @@ footer {
 /* ---------- MEDIA QUERY ---------- */
 @media (max-width: 400px) {
 	aside{
-		width: 2em;
+		width: 1.5em;
 	}
 	#man svg{	
 		left: 5%;
@@ -205,7 +205,7 @@ footer {
 }
 @media (max-width: 670px) {
 	aside{
-		width: 2em;
+		width: 1.5em;
 	}
 	#man svg{	
 		left: 5%;
