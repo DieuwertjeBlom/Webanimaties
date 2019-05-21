@@ -178,7 +178,8 @@ footer {
 }
 /* ---------- MEDIA QUERY ---------- */
 @media (max-width: 400px) {
-	aside{
+	
+    aside{
 		width: 1.5em;
 	}
 	#man svg{	
@@ -204,7 +205,16 @@ footer {
 	}
 }
 @media (max-width: 670px) {
-	aside{
+	body{
+        background: #fefef1 url(../../public/images/wint-bg.png) repeat 0 0;
+         -webkit-animation: slide 20s linear infinite;
+    }
+    @-webkit-keyframes slide {
+    from { background-position: 0 0; }
+    to { background-position: -400px 0; }
+}
+
+    aside{
 		width: 1.5em;
 	}
 	#man svg{	
