@@ -205,7 +205,8 @@ footer {
 	}
 }
 @media (max-width: 670px) {
-	body{
+	/* De animatie om de achtergrond te laten bewegen heb ik hier vandaan: https://codepen.io/subz/pen/GgPrJP*/
+    body{
         background: #fefef1 url(../../public/images/wint-bg.png) repeat 0 0;
          -webkit-animation: slide 20s linear infinite;
     }
