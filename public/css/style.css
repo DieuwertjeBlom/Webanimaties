@@ -92,6 +92,7 @@ h2{
 
 #hand {
 	transition: 0.2s;
+    cursor: pointer;
 }
 
 .animatie {
