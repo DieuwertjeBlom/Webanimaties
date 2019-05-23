@@ -34,7 +34,7 @@ Vanaf het begin wilde ik heel graag dat de vlinder zou bewegen. Dus als je nu op
 
 De man, ookwel Dandy Eustace Tilley, wil natuurlijk de vlinder beter zien bewegen dus daarom kan je hem heen handje helpen door middel van op zijn arm te klikken zijn monocle dichter bij zijn hoofd te helpen. [Fun fact: Tot op de dag van vandaag weet niemand wat er met Dandy Eustace Tilley wordt bedoeld.]
 
-Als je op de `/` op het toetsenbord klikt komt een roze olifant te voorschijn. De olifant komt uit later werk van Rea Irvin. Uit de uitgaven van december 31, 1938 is er een roze olifant te zien (zie de afbeelding hier onder). Ik heb gekozen voor dit kunstwerk vanwege het engelse gezegde 'elephant in the room', staat voor dat iets niet te missen is. Door de olifant achter de hoed te zetten is deze juist wel te missen. Dit is iets tegenstrijdigs en dat is de grap binnen de pagina. Ik wilde graag de humor van het tijdschrift naar voren brengen hiermee.
+Als je op de `/` op het toetsenbord klikt of als je op mobiel over de hoed swiped komt een roze olifant te voorschijn. De olifant komt uit later werk van Rea Irvin. Uit de uitgaven van december 31, 1938 is er een roze olifant te zien (zie de afbeelding hier onder). Ik heb gekozen voor dit kunstwerk vanwege het engelse gezegde 'elephant in the room', staat voor dat iets niet te missen is. Door de olifant achter de hoed te zetten is deze juist wel te missen. Dit is iets tegenstrijdigs en dat is de grap binnen de pagina. Ik wilde graag de humor van het tijdschrift naar voren brengen hiermee.
 
 #### Het originele kunstwerk wat in de animatie is toegevoegd:
 ![Onderdeel wat achter de hoed zit](https://media.newyorker.com/photos/59094ec76552fa0be682b523/master/w_760,c_limit/1938_12_31.jpg)
