@@ -19,6 +19,11 @@ aside {
 h2{
 	font-family: 'Raleway', sans-serif;
 	}
+
+.titel{
+    width: 330px;
+    text-align: center;
+}  
 #wolk-top{
     margin-top: -18px;
     width: 92em;
