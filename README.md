@@ -22,7 +22,7 @@ Sinds de jaren 90 maakt The New Yorker gebruik van het internet voor het publice
 #### Het originele kunstwerk:
 
 ![Het kunstwerk](https://media.newyorker.com/photos/59094e4bc14b3c606c102ff8/master/w_760,c_limit/1925_02_21.jpg)
-
+[Bron](https://www.newyorker.com/magazine/1925/02/21)
 ## Aanpak
 ---
 Aller eerst heb ik de afbeelding omgezet naar een `SVG`. Ik heb alles overgetrokken en gezorgd dat iedere laag een goede naam heeft, zodat ik later binnen de code wist wat ik moest aanpsreken om te animeren. Binnen de website is de man samen met de vlinder 1 `SVG` en de wolken zijn aparte `SVG's`. De andere visuele aspecten binnen de pagina zoals de groene verticale balk staat in een `aside` en de bruine horizontale balk staat in de `footer`. De tekst staat in een `section` waaronder de datum en de prijs in een`h3` en de tekst The New Yorker in een `h3`. Dit is geen svg omdat het er dan semantisch mooier uit ziet. Ook kan je dan gemakkelijker de tekst aanpassen mocht dat nodig zijn.
@@ -36,6 +36,7 @@ Als je op de `/` op het toetsenbord klikt komt een roze olifant te voorschijn. D
 
 #### Het originele kunstwerk wat in de animatie is toegevoegd:
 ![Onderdeel wat achter de hoed zit](https://media.newyorker.com/photos/59094ec76552fa0be682b523/master/w_760,c_limit/1938_12_31.jpg)
+[Bron](https://www.newyorker.com/magazine/1938/12/31)
 
 Als je de de de website op de browser bekijkt en deze verklijnt zie je dat de achtergrond veranderd. Op mobiel is de achtergrond standaard anders. Dit vond ik een leuke toevoeging voor de mobiele variant van deze animatie.
 
